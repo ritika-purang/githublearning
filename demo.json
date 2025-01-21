@@ -1,0 +1,7 @@
+{ "tablename" : "customerdate",
+	{
+		"firstname" : "joe",
+		"lastname" : "tall",
+		"address" : "78,ftr"
+	}
+}	
